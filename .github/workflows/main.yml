@@ -1,0 +1,41 @@
+name: Atualizar Canais e EPG LG
+
+on:
+  schedule:
+    # Corre a cada 6 horas (Minuto 0, a cada 6 horas: 00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permite que corra o script manualmente pelo painel do GitHub se quiser
+
+permissions:
+  contents: write # Permissão necessária para o script guardar os ficheiros no repositório
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do código
+      uses: actions/checkout@v4
+
+    - name: Configurar o Python
+      uses: actions/setup-python@v5
+      with:
+        python-level: '3.10'
+
+    - name: Instalar Dependências
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Executar Script de Atualização
+      run: python atualizar_lista.py
+
+    - name: Commitar e Enviar os ficheiros atualizados
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add lg_channels_us.m3u lg_epg_us.xml
+        # Só faz o commit se houver alterações para evitar erros
+        git diff-index --quiet HEAD || git commit -m "Auto: Canais e EPG atualizados às $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
+        git push
+        
