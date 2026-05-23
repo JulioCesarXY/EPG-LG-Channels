@@ -28,7 +28,7 @@ jobs:
         pip install requests
 
     - name: Executar Script de Atualização
-      run: python atualizar_lista.py
+      run: python Iniciar.py
 
     - name: Commitar e Enviar os ficheiros atualizados
       run: |
