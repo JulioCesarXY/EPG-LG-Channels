@@ -4,16 +4,16 @@ from datetime import datetime, timezone, timedelta
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
-# Configurações para a região dos EUA
 COUNTRY_CODE = 'US'
 LANGUAGE_CODE = 'en'
 USER_AGENT = 'Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 LG Browser/8.0.0 WebOS.TV-2024/04.00.00 (LG; OLED65C4PUA;)'
 
-# Vamos capturar as próximas 6 horas de programação para o EPG
+# Definição de horários em UTC
 agora = datetime.now(timezone.utc)
-futuro = agora + timedelta(hours=6)
+passado = agora - timedelta(hours=6)
+futuro = agora + timedelta(hours=12)
 
-start_time = agora.strftime('%Y-%m-%dT%H:%M:%SZ')
+start_time = passado.strftime('%Y-%m-%dT%H:%M:%SZ')
 end_time = futuro.strftime('%Y-%m-%dT%H:%M:%SZ')
 
 url = "https://api.lgchannels.com/api/v1.0/schedulelist"
@@ -31,7 +31,7 @@ headers = {
     'X-Authentication': 'lg-tv-services-key'
 }
 
-print("Conectando à API da LG e baixando dados completos (Canais + EPG)...")
+print("Conectando à API da LG e baixando dados oficiais...")
 
 try:
     response = requests.get(url, headers=headers, params=params, timeout=15)
@@ -40,7 +40,7 @@ try:
         dados = response.json()
         
         # ----------------------------------------------------
-        # FASE 1: GERAR O ARQUIVO M3U (LISTA DE CANAIS)
+        # FASE 1: GERAR O ARQUIVO M3U
         # ----------------------------------------------------
         total_canais = 0
         with open("lg_channels_us.m3u", "w", encoding="utf-8") as f_m3u:
@@ -57,7 +57,6 @@ try:
                     
                     if url_stream and channel_id:
                         url_limpa = url_stream.split('?')[0]
-                        # ADICIONADO: tvg-id para sincronizar com o XML do EPG
                         f_m3u.write(f'#EXTINF:-1 tvg-id="{channel_id}" tvg-logo="{logo}" group-title="{nome_categoria}",{nome_canal}\n')
                         f_m3u.write(f'{url_limpa}\n')
                         total_canais += 1
@@ -65,11 +64,11 @@ try:
         print(f"[SUCESSO] Lista 'lg_channels_us.m3u' gerada com {total_canais} canais mapeados.")
 
         # ----------------------------------------------------
-        # FASE 2: GERAR O ARQUIVO XMLTV (GUIA DE PROGRAMAÇÃO)
+        # FASE 2: GERAR O ARQUIVO XMLTV (EPG CORRIGIDO)
         # ----------------------------------------------------
         tv = ET.Element('tv', generator_info_name="LG Channels EPG Extractor")
         
-        # Criando o cabeçalho de canais no XML
+        # Estrutura de canais do XML
         for categoria in dados.get("categories", []):
             for canal in categoria.get("channels", []):
                 channel_id = canal.get("channelId")
@@ -82,19 +81,20 @@ try:
                     if canal.get("channelLogoUrl"):
                         ET.SubElement(channel_node, 'icon', src=canal.get("channelLogoUrl"))
 
-        # Inserindo os programas de cada canal
+        # Estrutura de programas usando o mapeamento correto que você encontrou
         total_programas = 0
         for categoria in dados.get("categories", []):
             for canal in categoria.get("channels", []):
                 channel_id = canal.get("channelId")
                 
                 for programa in canal.get("programs", []):
-                    # Formata as datas para o padrão XMLTV (Ex: 20260523183000 +0000)
-                    prog_start = programa.get("startTime", "").replace("-", "").replace(":", "").replace("T", "").replace("Z", " +0000")
-                    prog_end = programa.get("endTime", "").replace("-", "").replace(":", "").replace("T", "").replace("Z", " +0000")
+                    # Uso das chaves corretas da API da LG: startDateTime e endDateTime
+                    prog_start = programa.get("startDateTime", "").replace("-", "").replace(":", "").replace("T", "").replace("Z", " +0000")
+                    prog_end = programa.get("endDateTime", "").replace("-", "").replace(":", "").replace("T", "").replace("Z", " +0000")
                     
-                    titulo = programa.get("programName", "No Information")
-                    descricao = programa.get("programDescription", "")
+                    # Correção das chaves de conteúdo e tratamento de strings/caracteres
+                    titulo = (programa.get("programTitle") or "No Title").replace('&', '&amp;')
+                    descricao = (programa.get("description") or "").replace('&', '&amp;')
                     
                     if channel_id and prog_start and prog_end:
                         programme_node = ET.SubElement(tv, 'programme', start=prog_start, stop=prog_end, channel=channel_id)
@@ -108,7 +108,6 @@ try:
                         
                         total_programas += 1
 
-        # Formata o XML para ficar estruturado com quebras de linha corretas
         xml_string = ET.tostring(tv, encoding='utf-8')
         reparsed = minidom.parseString(xml_string)
         xml_bonito = reparsed.toprettyxml(indent="  ")
@@ -116,8 +115,7 @@ try:
         with open("lg_epg_us.xml", "w", encoding="utf-8") as f_xml:
             f_xml.write(xml_bonito)
             
-        print(f"[SUCESSO] Guia de programação 'lg_epg_us.xml' gerado com {total_programas} programas listados.")
-        print("\nPronto! Agora você tem o ecossistema completo para rodar no seu player IPTV.")
+        print(f"[SUCESSO] Guia de programação 'lg_epg_us.xml' gerado com {total_programas} programas reais da API!")
 
     else:
         print(f"[ERRO] Falha na resposta da API: {response.status_code}")
