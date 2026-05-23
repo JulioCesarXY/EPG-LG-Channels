@@ -10,6 +10,18 @@ A atualização dos links de transmissão (tokens CDN) e da grade horária é ex
 
 ---
 
+## 🌍 Status de Suporte por Região
+
+| Região | Código | Canais (M3U) | Guia (EPG) | Status | Notas |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| **United States** | `US` | 🟢 Funcional | 🟢 Funcional | `Active` | Infraestrutura validada via Xumo/Amagi. Atualização a cada 6h. |
+| **United Kingdom** | `UK` | 🟡 Em Testes | 🔴 Indisponível | `In Progress` | Endpoint `/schedulelist` rejeitando fuso horário local. |
+| **Brasil** | `BR` | 🟡 Em Testes | 🔴 Indisponível | `In Progress` | Arquitetura de API diferente (Erro 500/404). Mapeamento em andamento. |
+
+
+
+---
+
 ## 🚀 Funcionalidades
 
 * **Extração Direta:** Consome diretamente os endpoints nativos da LG simulando um ambiente WebOS real.
