@@ -1,0 +1,799 @@
+<?xml version="1.0" ?>
+<tv generator_info_name="LG Channels EPG Extractor">
+  <channel id="foxlivenow_foxlivenow_US">
+    <display-name>LiveNOW from FOX</display-name>
+    <icon src="https://d3rimcir91uaav.cloudfront.net/196481_LG_LiveNow_Logo_White_800x200_001.png"/>
+  </channel>
+  <channel id="newsmax_nwsmx_US">
+    <display-name>Newsmax N2</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/N2_Channel_Logo_200x400.png"/>
+  </channel>
+  <channel id="reuters_reuters_US">
+    <display-name>Reuters</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/reuters/Reuters_Logo.png"/>
+  </channel>
+  <channel id="FREQ1178-US">
+    <display-name>The Hill</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/nexstar/channels/1178-400x200.png"/>
+  </channel>
+  <channel id="us-scripps_newsy_3">
+    <display-name>Scripps News</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1149/lg/d696f2/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-amcnetworks_bbcnews_1">
+    <display-name>BBC News</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1655/lg/9ba693/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-alticeusanewsinc_news12newyork_1">
+    <display-name>News 12 New York</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1721/lg/a3ad6c/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="foxweather_foxwt_US">
+    <display-name>Fox Weather</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/fox-weather/FoxWeather_White_Logo_400x200.png"/>
+  </channel>
+  <channel id="us-ion_ion_plus_1">
+    <display-name>ION Plus</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="MovieSphere LG US_MOVSPLGUS_US">
+    <display-name>MovieSphere</display-name>
+    <icon src="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png"/>
+  </channel>
+  <channel id="99992272">
+    <display-name>FilmRise Free Movies</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992272/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="freemoviesplus_amg02042c1eng_US">
+    <display-name>Free Movies Plus</display-name>
+    <icon src="https://preview-amagistv-amg02042-cloudport.now.amagi.tv/Images/S3/FMPLOGOLG.png"/>
+  </channel>
+  <channel id="us-gsn_cinevault_80s_1">
+    <display-name>CINEVAULT</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/691-LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
+  <channel id="us-gsn_cinevault_classics_2">
+    <display-name>CINEVAULT: Classics</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1043-LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="shoutmovies_stmvs_US">
+    <display-name>Shout! Movies</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Shout_Movies/LG_SM_Logo_400x200.png"/>
+  </channel>
+  <channel id="50centaction_action_US">
+    <display-name>50 Cent Action</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/50_Cent_Action/50CentAction_LGChannels_Logo_White_400x200.png"/>
+  </channel>
+  <channel id="99992286">
+    <display-name>Xumo Free Action Movies</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992286/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="99992284">
+    <display-name>Hi-Yah!</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992284/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-aenetworks_holidaymoviefavorites_1">
+    <display-name>Lifetime Movie Favorites</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/999-LG-Logo-PNG-100x100_v11.png"/>
+  </channel>
+  <channel id="mytimemovienetworkus_mytimea_US">
+    <display-name>MyTime Movie Network</display-name>
+    <icon src="https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png"/>
+  </channel>
+  <channel id="99992288">
+    <display-name>Xumo Free Black Cinema</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992288/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-maverick_maverick_black_cinema_2">
+    <display-name>Maverick Black Cinema</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/527/lg/bce7d5/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="theasylummoviechannel_tasmc_US">
+    <display-name>The Asylum</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Asylum_Movie_Channel_Logo_LG_400x200.png"/>
+  </channel>
+  <channel id="us-cinedigm_entertainment_corp_screamboxtv_1">
+    <display-name>Screambox TV</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="us-amc_scaresbyshudder_1">
+    <display-name>Scares by Shudder</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1566-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-lg_thebeverlyhillbillies_1">
+    <display-name>The Beverly Hillbillies</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="99992304">
+    <display-name>The Rifleman</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992304/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-gsn_cinevault_westerns_1">
+    <display-name>CINEVAULT: Westerns</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/690-LG-Logo-PNG-100x100_v5.png"/>
+  </channel>
+  <channel id="us-cinedigm_entertainment_corp_lonestar_1">
+    <display-name>Lone Star</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1846-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="99992285">
+    <display-name>Xumo Free Westerns</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992285/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-dhx_degrassi_1">
+    <display-name>Degrassi</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/715/lg/50c09d/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-amc_allblk_gems_1">
+    <display-name>AllBlk Gems</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1180-LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="FREQ888">
+    <display-name>Alien Nation by DUST</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png"/>
+  </channel>
+  <channel id="us-scripps_ion_1">
+    <display-name>ION</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1116/lg/c1228b/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="heartlandclassic_hrtcl_US">
+    <display-name>Heartland</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/heartlandclassic_lgus/heartland_logo_400x200.png"/>
+  </channel>
+  <channel id="FREQ938">
+    <display-name>BBC Drama</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/bbcdrama400x200.png"/>
+  </channel>
+  <channel id="FREQ796">
+    <display-name>BritBox Mysteries</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/bbcbritboxmysteries400x200.png"/>
+  </channel>
+  <channel id="us-scripps_ionmystery_1">
+    <display-name>ION Mystery</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1206/lg/4adf47/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="otspr_otspr_US">
+    <display-name>Outersphere</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Outersphere/Outersphere_log.png"/>
+  </channel>
+  <channel id="tribeca_tribe_US">
+    <display-name>Tribeca</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/tribeca/Tribeca_Logo_800w200h.png"/>
+  </channel>
+  <channel id="FREQ874">
+    <display-name>Horror by ALTER</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/gunpowderandsky/channels/Horror-By-ALTER_white_logo_800x200.png"/>
+  </channel>
+  <channel id="electricnoweng_eleno_US">
+    <display-name>Electric Now</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/electric/ENOW_White_logo_800x200.png"/>
+  </channel>
+  <channel id="baywatchlgus_baywhlgus_US">
+    <display-name>Baywatch</display-name>
+    <icon src="https://d2suk8s18omb4k.cloudfront.net/LG_Baywatch_Logo_800x200.png"/>
+  </channel>
+  <channel id="hersphere_movsf_US">
+    <display-name>Hersphere</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/hersphere/HerSphere_LGLaunch_Guide_Logo_White_Stacked_800x200.png"/>
+  </channel>
+  <channel id="FREQ896">
+    <display-name>Dove Channel</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/dove-400x200.png"/>
+  </channel>
+  <channel id="arewethereyetlgus_rwthytlgus_US">
+    <display-name>Are We There Yet</display-name>
+    <icon src="https://db6iftd8li11q.cloudfront.net/AreWeThereYet/AreWeThereYet_LGLaunch_Guide_Logo_White_800x200.png"/>
+  </channel>
+  <channel id="us-scripps_bouncexl_1">
+    <display-name>Bounce XL</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/938/lg/cbdf14/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="ebonytvtubi_mvsbk_US">
+    <display-name>Ebony TV</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ebony%20TV/EbonyTV_logo_800X200.png"/>
+  </channel>
+  <channel id="curiositynow_curfast_US">
+    <display-name>Curiosity Now</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png"/>
+  </channel>
+  <channel id="declassified_histim_US">
+    <display-name>Declassified</display-name>
+    <icon src="https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/Declassified_800x200_Logo.png"/>
+  </channel>
+  <channel id="bbctopgear8minother_bbctgsf_US">
+    <display-name>BBC Top Gear</display-name>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png"/>
+  </channel>
+  <channel id="nashbridges_nbdgs_US">
+    <display-name>Nash Bridges</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Nash%20Bridges/NashBridges_LGLaunch_Guide_Logo_800x200.png"/>
+  </channel>
+  <channel id="confessbynosey_conbn_US">
+    <display-name>Confess by Nosey</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Confess_by_Nosey/LG_ConfessByNoseyLogo_White_400x200.png"/>
+  </channel>
+  <channel id="FREQ190-US">
+    <display-name>Reelz Famous &amp; Infamous</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/reelz/channels/190-FamousInfamousLogo_WhiteStacked_400x200.png"/>
+  </channel>
+  <channel id="us-bbc_classicdrwho_1">
+    <display-name>Classic Doctor Who</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/904/lg/84b2ff/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="haunttvus_hntus_US">
+    <display-name>Haunt TV US</display-name>
+    <icon src="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png"/>
+  </channel>
+  <channel id="us-gsn_crunchyroll_1">
+    <display-name>Crunchyroll</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1467-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="us-amc_anime_x_hidive_1">
+    <display-name>ANIME x HIDIVE</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1398-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="FREQ901">
+    <display-name>Yu-Gi-Oh!</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/cineverse/channels/yu-gi-oh-400x200.png"/>
+  </channel>
+  <channel id="99992283">
+    <display-name>It's Showtime at the Apollo</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992283/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="antiquesroadshow_pbsdc_US">
+    <display-name>Antiques Roadshow</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBSAntiquesRoadshow_LG_Channel_Logo_800x200.png"/>
+  </channel>
+  <channel id="us-jukin_peopleareawesome_international_4">
+    <display-name>People Are Awesome</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1161/lg/f9dc8b/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="dinos_dinos_US">
+    <display-name>Dinos 24/7</display-name>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/Dinos/LG_Dinos/LG_DINOS_247_CHANNEL_ASSETSLG-Logo-PNG-800x200-(REV).png"/>
+  </channel>
+  <channel id="estrellagames_estgm_US">
+    <display-name>Estrella Games</display-name>
+    <icon src="https://d3st1dzbcmlcd.cloudfront.net/EstrellaGames/Images/estrellagames_logo.png"/>
+  </channel>
+  <channel id="fantasylife_fanfl_US">
+    <display-name>Matthew Berry’s Fantasy Life</display-name>
+    <icon src="https://d7xr8zn8daz19.cloudfront.net/FantasyLife-2024-HORIZONTAL-LOGO-Stencil-White.png"/>
+  </channel>
+  <channel id="nationalhockeyleague_nhlpcr_US">
+    <display-name>NHL</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NHL/NHL_Logo_400x200.png"/>
+  </channel>
+  <channel id="Waypoint TVUS_WAYPNTLGUS_US">
+    <display-name>Waypoint TV</display-name>
+    <icon src="https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png"/>
+  </channel>
+  <channel id="FREQ11-US">
+    <display-name>BOOT</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/oneworld/channels/boot400x200.png"/>
+  </channel>
+  <channel id="FREQ847-US">
+    <display-name>MLB</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/mlb/channels/847-400x200.png"/>
+  </channel>
+  <channel id="us-world_poker_tour_wpt_1">
+    <display-name>World Poker Tour</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-tripleb_billiardtv_1">
+    <display-name>Billiard TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="FREQ1006-US">
+    <display-name>PGA TOUR</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/pgatour/channels/pgatour400x200.png"/>
+  </channel>
+  <channel id="tennischannelus_tncus_US">
+    <display-name>T2</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/white_800X200_T2_Logo_4.png"/>
+  </channel>
+  <channel id="pickleball_pkball_US">
+    <display-name>Pickleball TV</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/PickleBall/Pickle_ball_800X200.png"/>
+  </channel>
+  <channel id="sportsgridus_sgridus_US">
+    <display-name>SportsGrid</display-name>
+    <icon src="https://d21yoskxc561nh.cloudfront.net/SG-LIVE-BLACK-ON-ALPHA-OCT-800X200.png"/>
+  </channel>
+  <channel id="us-fanduelgroup_fandueltv_01">
+    <display-name>FanDuel TV Extra</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1568/lg/f002dc/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="usatv_usatv_US">
+    <display-name>Team USA TV</display-name>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/USATV/TeamUSATVLogoWhite_800x200.png"/>
+  </channel>
+  <channel id="ryzsports_ryzspo_US">
+    <display-name>RYZ Sports</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/ryz/Lglogos/Ryz_AllWhiteLogo_400x200_for%20LG.png"/>
+  </channel>
+  <channel id="us-stadium_gracenote">
+    <display-name>Stadium</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/160/lg/651255/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-amc_overtime_1">
+    <display-name>Overtime</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1192/lg/73477a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-world_rugby_rugbypasstv_1">
+    <display-name>RugbyPass TV</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1872-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="us-fubotv_fubo_sports_network_1">
+    <display-name>Fubo Sports</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="us-eleven_bowlingtv_1">
+    <display-name>Bowling TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/2195/lg/c55840/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="espn8ocho_amg00497c24_us">
+    <display-name>ESPN 8: The Ocho</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ESPN/Espn_400X200.png"/>
+  </channel>
+  <channel id="us-amc_msgsportszone_1">
+    <display-name>MSG SportsZone</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1386-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-amc_networks_nesnnation_1">
+    <display-name>NESN Nation</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1952/lg/d4cda0/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="FREQ893">
+    <display-name>UFC</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/ufc/channels/ufc-domestic400x200.png"/>
+  </channel>
+  <channel id="daznringside_dznrs_US">
+    <display-name>DAZN Ringside</display-name>
+    <icon src="https://d2epwduv7bstma.cloudfront.net/Dazn_Ringside/LG/DAZN_RINGSIDE_WHITE_800x264_TV.png"/>
+  </channel>
+  <channel id="FREQ253">
+    <display-name>Swerve Combat</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/swerve/channels/swerve-white-400x200.png"/>
+  </channel>
+  <channel id="formula1tv_frla1_US">
+    <display-name>F1 Channel</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/F1_Channel_800x200_white.png"/>
+  </channel>
+  <channel id="mavtvselectdomestic_mavtv_US">
+    <display-name>MavTV Select</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png"/>
+  </channel>
+  <channel id="us-answermedia_monsterjam_1">
+    <display-name>Monster Jam</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="womenssportsnetwork_womch_US">
+    <display-name>Women's Sports Network</display-name>
+    <icon src="https://d2gqmql520my5n.cloudfront.net/WOMCH/LG/WSNLogoWhite_800x200.png"/>
+  </channel>
+  <channel id="dpworldtourgolf_dpwtg_US">
+    <display-name>DP World Tour</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/Logo_DPWorldTour.png"/>
+  </channel>
+  <channel id="us-rightsboosterltd_scl_1">
+    <display-name>Strongman Champions League</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1102/lg/129bb3/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="itvdeportes_itvdep_US">
+    <display-name>ITV Deportes</display-name>
+    <icon src="https://d2mxb63djushzm.cloudfront.net/images/ITV_Deportes_400x200.png"/>
+  </channel>
+  <channel id="angermanagement_lgnvbp_US">
+    <display-name>Anger Management</display-name>
+    <icon src="https://db6iftd8li11q.cloudfront.net/AngerManagement_LGLaunch_Guide_Logo_White_800x200.png"/>
+  </channel>
+  <channel id="us-jukin_failarmy_1">
+    <display-name>FailArmy</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1021/lg/6c6906/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-jukin_thepetcollective_1">
+    <display-name>The Pet Collective</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1020/lg/d8531a/LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="us-scripps_laffmore_1">
+    <display-name>Laff More</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1498/lg/d22c6a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-gsn_cinevault_70s_1">
+    <display-name>GET Comedy</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/830-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="FREQ918-US">
+    <display-name>Animation+</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/streamingink/channels/918-400x200.png"/>
+  </channel>
+  <channel id="us-amc_slightly_off_by_amc_1">
+    <display-name>Slightly Off IFC</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/564-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="theconners_thcons_US">
+    <display-name>The Conners</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/TheConners/LG_The_Conners_800X200.png"/>
+  </channel>
+  <channel id="johnnycarson_jhcrn_US">
+    <display-name>Johnny Carson TV</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/LG_JCARTV_Logo_800x200_WHITE.png"/>
+  </channel>
+  <channel id="mst3k_mst3k_US">
+    <display-name>MST3K</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/shoutfactory/LG_MST3K_Logo_800x200.png"/>
+  </channel>
+  <channel id="us-bec_witz_1">
+    <display-name>WITZ-Comedy TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1197/lg/4bbe15/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="FREQ903">
+    <display-name>Comedy Dynamics</display-name>
+    <icon src="https://static.frequency.com/studio/cineverse/channels/ComedyDynamics_Vector_Yellow_v1.png?width=400&amp;height=200"/>
+  </channel>
+  <channel id="comedyplus_amg02042c5eng_US">
+    <display-name>Comedy Plus</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/comedy-plus/Comedy%20Plus%20White%20transparent%20logo.png"/>
+  </channel>
+  <channel id="us-answermedia_theredgreenshow_2">
+    <display-name>The Red Green Channel</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/949-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="allchewedup_amg00497c33_us">
+    <display-name>All Chewed Up</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Allchewedup/AllChewedUpLogo_V2.png"/>
+  </channel>
+  <channel id="us-lg_majordomo_media_channel_dc">
+    <display-name>Majordomo TV with David Chang</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1369/lg/82e65a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="powernation_powna_US">
+    <display-name>Power Nation</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/raycom/powernation_logo_700x200.png"/>
+  </channel>
+  <channel id="marthastewartchannel_amg17902c1_us">
+    <display-name>Martha Stewart</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/MStewartChannel_800x200WhiteLogo_LGTV.png"/>
+  </channel>
+  <channel id="amg01420c1eng_amg01420c1eng_US">
+    <display-name>America's Test Kitchen</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/atk/ATK_Logo_LG.png"/>
+  </channel>
+  <channel id="cookscountrychannel_ccch_US">
+    <display-name>Cook's Country Channel</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Cooks_Country/CC_CooksCountryChannel_LG_Logo_new.png"/>
+  </channel>
+  <channel id="emerillagassechannel_amg17902c2_us">
+    <display-name>Emeril Lagasse</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/marquee/EmerilLagasseChannel_800x200WhiteLogo_LGTV.png"/>
+  </channel>
+  <channel id="us-food">
+    <display-name>Hungry</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/140-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="homefulus_hmflus_US">
+    <display-name>Homeful</display-name>
+    <icon src="https://d2y2gft5545ze9.cloudfront.net/Homeful_200pxHigh_LG_ChannelAssets_White.png"/>
+  </channel>
+  <channel id="us-jukin_homefamilyhandyman_1">
+    <display-name>At Home with Family Handyman</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1308/lg/5ea754/LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="us-aenetworks_tinyhousenation_1">
+    <display-name>Tiny House Nation</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/675-LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
+  <channel id="us-aenetworks_ae_1">
+    <display-name>Home.Made.Nation</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/285-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-janson_todayshomeowner_1">
+    <display-name>Today's Home</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
+  <channel id="gotraveler_amg09501c1eng_US">
+    <display-name>GoTraveler</display-name>
+    <icon src="https://d21daa8enjs33a.cloudfront.net/Images/S3/Gotraveler_800x200.png"/>
+  </channel>
+  <channel id="pbsgenealogy_pbsgy_US">
+    <display-name>PBS Genealogy</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBS_Geno_logo_400x200.png"/>
+  </channel>
+  <channel id="us-bbc_antiquesroadshowuk_1">
+    <display-name>Antiques Roadshow UK</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/905/lg/c20695/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-bbc_studios_bargainhunt_1">
+    <display-name>Bargain Hunt</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1885/lg/ed83b9/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-cinedigm_entertainment_corp_thebobrosschannel_1">
+    <display-name>The Bob Ross Channel</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1844-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="estrellanews_estrnews_US">
+    <display-name>Estrella News</display-name>
+    <icon src="https://d3st1dzbcmlcd.cloudfront.net/EstrellaNews/Images/Estrealla-news-logo.png"/>
+  </channel>
+  <channel id="cineestrella_cines_US">
+    <display-name>Cine Estrella</display-name>
+    <icon src="https://d3st1dzbcmlcd.cloudfront.net/CineEstrella/Thumbnail/lg_cineetv-logo.png"/>
+  </channel>
+  <channel id="lovenaturespanish_lnrspalgus_US">
+    <display-name>Love Nature En Espanol</display-name>
+    <icon src="https://d190bhqtoid3b.cloudfront.net/Images/S3/LNRSPA/LoveNatureenEspanol_AllWhite_Logo_800x200.png"/>
+  </channel>
+  <channel id="us-aenetworks_unxplainedzone_1">
+    <display-name>UnXplained Zone</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1018-LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="us-aenetworks_skills_thrills_1">
+    <display-name>Xtreme Outdoor Presented by HISTORY</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/590-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="us-aenetworks_axmen_1">
+    <display-name>Ax Men</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/998-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="duckdynasty_aeddy_US">
+    <display-name>Duck Dynasty</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Duck_Dynasty_LG_Logo_white_400x200.png"/>
+  </channel>
+  <channel id="FREQ1209-US">
+    <display-name>BBC Adventure</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/bbc/channels/1209-400x200.png"/>
+  </channel>
+  <channel id="dogwhispererwithcesarmilan_dogwh_US">
+    <display-name>Dog Whisperer with Cesar Millan</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Dog_whisperer/DW_logo_800X200.png"/>
+  </channel>
+  <channel id="us-aenetworks_dealzone_1">
+    <display-name>Deal Zone</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1099-LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="us-aenetworks_torque_1">
+    <display-name>Torque</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1052-LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="us-aenetworks_iceroadtruckers_1">
+    <display-name>Ice Road Truckers</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/968-LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
+  <channel id="dancemoms_aedms_US">
+    <display-name>Dance Moms</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Dance_Moms_Channel_Logo_Image_200x800.png"/>
+  </channel>
+  <channel id="matchedmarriedmeet_aemmm_US">
+    <display-name>Matched Married Meet</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Matched_Married_Meet_Channel_Logo_Image_200x800.png"/>
+  </channel>
+  <channel id="99993001">
+    <display-name>Cheaters</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993001/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="theosbournes_alreallgus_US">
+    <display-name>The Osbournes</display-name>
+    <icon src="https://d2mxb63djushzm.cloudfront.net/images/TheOsbournes-LG_LOGO_400x200.png"/>
+  </channel>
+  <channel id="99992260">
+    <display-name>Hell's Kitchen</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="projectrunwayamg02189c1engspyglassmediagroup_amg02189c1eng_US">
+    <display-name>Project Runway</display-name>
+    <icon src="https://d377v1g4dwmoq.cloudfront.net/Images/S3/ProjectRunway_logo_white-400.png"/>
+  </channel>
+  <channel id="fearfactorbanijay_frfct_US">
+    <display-name>Fear Factor</display-name>
+    <icon src="https://d2yv6y0n3qsl5c.cloudfront.net/FRFCT/NEW_Fear-Factor-Powered-by-Banijay.png"/>
+  </channel>
+  <channel id="noseyintl1us_nintl1us_US">
+    <display-name>Nosey</display-name>
+    <icon src="https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png"/>
+  </channel>
+  <channel id="ghosthunters_gthtr_US">
+    <display-name>Ghost Hunters</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Ghosthunters/GhostHunters_LGLaunch_Guide_Logo_White_800x200.png"/>
+  </channel>
+  <channel id="99992520">
+    <display-name>Western Bound Wrangled by INSP</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992520/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-scripps_gritxtra_1">
+    <display-name>Grit Xtra</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1208/lg/049016/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="deportesus_amg00658c11eng_US">
+    <display-name> Canela.TV Deportes</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-deportes-800x200.png"/>
+  </channel>
+  <channel id="luchaplus_luchap_US">
+    <display-name>Lucha Plus</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Lucha_plus/Lucha_plus_logo.png"/>
+  </channel>
+  <channel id="pasionlatina_amg00658c99eng_US">
+    <display-name>Novelas y Dramas</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Novelas_y_Drama-400x200.png"/>
+  </channel>
+  <channel id="narcodrama_amg00658c13eng_US">
+    <display-name>Canela.TV Narco-Drama</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-Narco+drama-800x200.png"/>
+  </channel>
+  <channel id="hollywoodymasus_amg00658c105eng_US">
+    <display-name>Canela.TV Hollywood y Mas</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-hollywood-y-mas-800x200.png"/>
+  </channel>
+  <channel id="clasicos_amg00658c9eng_US">
+    <display-name>Canela.TV Clasicos</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/canelatv/CTV-LG-Logo-clasicos-800x200.png"/>
+  </channel>
+  <channel id="99992255">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992255/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="FREQ940-US">
+    <display-name>Crime Beat TV</display-name>
+    <icon src="https://d1biytugnv36sr.cloudfront.net/resize?width=400&amp;height=200&amp;url=https://static.frequency.com/studio/shoutstudios/channels/LG_CBTV_Logo_400x200.png"/>
+  </channel>
+  <channel id="us-aenetworks_thrillher_1">
+    <display-name>Crime ThrillHer</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1056-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="99992257">
+    <display-name>Unsolved Mysteries</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992257/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-ae_networks_alaskastatetroopers_1">
+    <display-name>A&amp;E Alaska State Troopers</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2181-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="coldcasefiles_aeccf_US">
+    <display-name>Cold Case Files</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png"/>
+  </channel>
+  <channel id="us-trublufactual_trublu_1">
+    <display-name>TruBlu</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1565/lg/142485/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-aenetworks_crime360_1">
+    <display-name>A&amp;E Crime 360</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-Logo-PNG-100x100_v6.png"/>
+  </channel>
+  <channel id="us-aenetworks_kriminal_1">
+    <display-name>Crimes Cults Killers  by A&amp;E</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png"/>
+  </channel>
+  <channel id="99993006">
+    <display-name>World's Most Evil Killers</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99993006/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="livepdpresents_lpdpr_US">
+    <display-name>Live PD Presents</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/LG/LivePDPresents/Live_PD_Presents_logo_400x200.png"/>
+  </channel>
+  <channel id="us-langleyproductions_jail_1">
+    <display-name>JAIL</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1201/lg/371c00/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-lawandcrime_samsung">
+    <display-name>Law&amp;Crime</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/226/lg/649349/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-scripps_courttv_4">
+    <display-name>Court TV</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="buzzr_buzzr_US">
+    <display-name>Buzzr</display-name>
+    <icon src="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png"/>
+  </channel>
+  <channel id="thepriceisright_tpirt_US">
+    <display-name>The Price Is Right</display-name>
+    <icon src="https://d176ihgbrcz7jq.cloudfront.net/TPIR_Barker_Logo_WHT_800x200.png"/>
+  </channel>
+  <channel id="us-gsn_gameshowchannnel_1">
+    <display-name>Game Show Central</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-Logo-PNG-100x100_v3.png"/>
+  </channel>
+  <channel id="99992282">
+    <display-name>Family Feud</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992282/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="dornod_dornodlgus_US">
+    <display-name>Deal or No Deal</display-name>
+    <icon src="https://d2yv6y0n3qsl5c.cloudfront.net/DORNOD/DOND-LG_LOGO_White_800x200.png"/>
+  </channel>
+  <channel id="wipeoutxtra_wipoxt_US">
+    <display-name>Wipeout Xtra</display-name>
+    <icon src="https://d2yv6y0n3qsl5c.cloudfront.net/WIPOXT/WipeoutXtra_LG_Logo.png"/>
+  </channel>
+  <channel id="us-jukin_weatherspy_4">
+    <display-name>WeatherSpy</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1143/lg/d69ea1/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="bbcearth_bbce5_US">
+    <display-name>BBC Earth</display-name>
+    <icon src="https://d2i0hcnfudruct.cloudfront.net/BBCEarth/LG_BBC_EARTH_LOGO_WHITE_800x200.png"/>
+  </channel>
+  <channel id="wildearthus_wildearthus_US">
+    <display-name>WildEarth</display-name>
+    <icon src="https://d2rx6itp6voihr.cloudfront.net/Images/S3/WE_LOGO_LIGHT_LGPlus_V2.png"/>
+  </channel>
+  <channel id="bamlovenatureenglish_bamloveeng_US">
+    <display-name>Love Nature</display-name>
+    <icon src="https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/LoveNature_AllWhite_Logo_800x200.png"/>
+  </channel>
+  <channel id="99992106">
+    <display-name>NatureVision</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992106/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-janson_supersimplesongs_1">
+    <display-name>Super Simple Songs</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/559/lg/d86b91/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-jansonmedia_superwings_1">
+    <display-name>Super Wings</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1694/lg/9c948f/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="99992126">
+    <display-name>Baby Einstein</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992126/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="us-jansonmedia_kidstv_1">
+    <display-name>Kids TV</display-name>
+    <icon src="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png"/>
+  </channel>
+  <channel id="99992516">
+    <display-name>Sonic The Hedgehog</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992516/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="99992510">
+    <display-name>Rainbow Ruby</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992510/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="99992514">
+    <display-name>Strawberry Shortcake</display-name>
+    <icon src="https://image.xumo.com/v1/channels/channel/99992514/600x200.png?type=white_cropped"/>
+  </channel>
+  <channel id="pbsretro_pbsrt_US">
+    <display-name>PBS Retro</display-name>
+    <icon src="https://d2mxb63djushzm.cloudfront.net/images/pbs/PBSRetro_LG_Channel_Logo_800x200.png"/>
+  </channel>
+  <channel id="us-cinedigm_entertainment_corp_barneyandfriends_1">
+    <display-name>Barney and Friends</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1843-LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="Stingray190ADS">
+    <display-name>Stingray Today's Latin Pop</display-name>
+    <icon src="https://epg.sam.stingray.com/IMAGE/190ADS/lg-direct/Channel_Logo_296x200.png"/>
+  </channel>
+  <channel id="thecountrynetworkus_cinetcnus_US">
+    <display-name>The Country Network</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/cinedigm_images/tcn/tcn_logo_330x200.png"/>
+  </channel>
+  <channel id="Stingray134ADS">
+    <display-name>Stingray Soul Storm</display-name>
+    <icon src="https://epg.sam.stingray.com/IMAGE/134ADS/lg-direct/Channel_Logo_296x200.png"/>
+  </channel>
+  <channel id="Stingray232ADS">
+    <display-name>Stingray 2000s</display-name>
+    <icon src="https://epg.sam.stingray.com/IMAGE/232ADS/lg-direct/Channel_Logo_296x200.png"/>
+  </channel>
+  <channel id="Stingray317ADS">
+    <display-name>Stingray Today's K-Pop</display-name>
+    <icon src="https://epg.sam.stingray.com/IMAGE/317ADS/lg-direct/Channel_Logo_296x200.png"/>
+  </channel>
+  <channel id="us-cinedigm_entertainment_corp_historian_1">
+    <display-name>Historian</display-name>
+    <icon src="https://img.platform.wurl.dev/channel/1908/lg/b7ee6a/LG-Logo-PNG-100x100_v1.png"/>
+  </channel>
+  <channel id="us-aenetworks_modernmarvels_1">
+    <display-name>Modern Marvels</display-name>
+    <icon src="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1040-LG-Logo-PNG-100x100_v4.png"/>
+  </channel>
+  <channel id="yulelogtvbychristmasplus_amg02042c33eng_US">
+    <display-name>Fireplace TV</display-name>
+    <icon src="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/YuleLogTV_by_ChristmasPlus/WhiteLogo.png"/>
+  </channel>
+</tv>
