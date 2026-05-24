@@ -3,10 +3,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-blueviolet?style=flat-square&logo=github-actions)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-<p align="center">
-  <img src="https://img.shields.io/github/actions/workflow/status/JulioCesarXY/EPG-LG-Channels/main.yml?branch=main&style=for-the-badge&logo=github-actions&logoColor=white&label=AUTOMAÇÃO" alt="Status do Workflow">
-  <img src="https://img.shields.io/github/last-commit/JulioCesarXY/EPG-LG-Channels?style=for-the-badge&logo=git&logoColor=white&label=ÚLTIMO%20UPDATE&color=blue" alt="Último Commit">
-</p>
 
 
 Este projeto realiza engenharia reversa de forma automatizada na API oficial do **LG Channels (WebOS)** para extrair a lista completa de canais gratuitos (FAST Channels) da região dos Estados Unidos (`US`), gerando listas no formato **M3U8** e guias de programação analíticos em **XMLTV (EPG)**.
