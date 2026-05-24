@@ -10,6 +10,11 @@ A atualização dos links de transmissão (tokens CDN) e da grade horária é ex
 
 ---
 
+![Banner do Projeto](Guide.png)
+
+
+---
+
 ## 🌍 Status de Suporte por Região
 
 | Região | Código | Canais (M3U) | Guia (EPG) | Status | Notas |
@@ -18,6 +23,10 @@ A atualização dos links de transmissão (tokens CDN) e da grade horária é ex
 | **United Kingdom** | `UK` | 🟡 Em Testes | 🔴 Indisponível | `In Progress` | Endpoint `/schedulelist` rejeitando fuso horário local. |
 | **Brasil** | `BR` | 🟡 Em Testes | 🔴 Indisponível | `In Progress` | Arquitetura de API diferente (Erro 500/404). Mapeamento em andamento. |
 
+
+
+---
+![LG Channels EPG Extractor](https://opengraph.githubassets.com/1/JulioCesarXY/EPG-LG-Channels)
 
 
 ---
