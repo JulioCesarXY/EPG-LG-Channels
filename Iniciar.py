@@ -40,11 +40,12 @@ try:
         dados = response.json()
         
         # ----------------------------------------------------
-        # FASE 1: GERAR O ARQUIVO M3U
+        # FASE 1: GERAR O ARQUIVO M3U (COM X-TVG-URL INJETADO)
         # ----------------------------------------------------
         total_canais = 0
         with open("lg_channels_us.m3u", "w", encoding="utf-8") as f_m3u:
-            f_m3u.write("#EXTM3U\n")
+            # ALTERADO AQUI: Injeção automática da URL do EPG no cabeçalho do M3U
+            f_m3u.write('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/refs/heads/main/lg_epg_us.xml"\n')
             
             for categoria in dados.get("categories", []):
                 nome_categoria = categoria.get("categoryName", "General")
@@ -64,7 +65,7 @@ try:
         print(f"[SUCESSO] Lista 'lg_channels_us.m3u' gerada com {total_canais} canais mapeados.")
 
         # ----------------------------------------------------
-        # FASE 2: GERAR O ARQUIVO XMLTV (EPG CORRIGIDO)
+        # FASE 2: GERAR O ARQUIVO XMLTV (EPG)
         # ----------------------------------------------------
         tv = ET.Element('tv', generator_info_name="LG Channels EPG Extractor")
         
@@ -81,18 +82,16 @@ try:
                     if canal.get("channelLogoUrl"):
                         ET.SubElement(channel_node, 'icon', src=canal.get("channelLogoUrl"))
 
-        # Estrutura de programas usando o mapeamento correto que você encontrou
+        # Estrutura de programas usando o mapeamento correto
         total_programas = 0
         for categoria in dados.get("categories", []):
             for canal in categoria.get("channels", []):
                 channel_id = canal.get("channelId")
                 
                 for programa in canal.get("programs", []):
-                    # Uso das chaves corretas da API da LG: startDateTime e endDateTime
                     prog_start = programa.get("startDateTime", "").replace("-", "").replace(":", "").replace("T", "").replace("Z", " +0000")
-                    prog_end = programa.get("endDateTime", "").replace("-", "").replace(":", "").replace("T", "").replace("Z", " +0000")
+                    prog_end = programme_node = programa.get("endDateTime", "").replace("-", "").replace(":", "").replace("T", "").replace("Z", " +0000")
                     
-                    # Correção das chaves de conteúdo e tratamento de strings/caracteres
                     titulo = (programa.get("programTitle") or "No Title").replace('&', '&amp;')
                     descricao = (programa.get("description") or "").replace('&', '&amp;')
                     
@@ -122,3 +121,4 @@ try:
 
 except Exception as e:
     print(f"[FALHA] Ocorreu um erro durante a execução: {e}")
+    
