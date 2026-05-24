@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/JulioCesarXY/EPG-LG-Channels/refs/heads/main/lg_epg_us.xml"
 #EXTINF:-1 tvg-id="foxlivenow_foxlivenow_US" tvg-logo="https://d3rimcir91uaav.cloudfront.net/196481_LG_LiveNow_Logo_White_800x200_001.png" group-title="News",LiveNOW from FOX
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="newsmax_nwsmx_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/N2_Channel_Logo_200x400.png" group-title="News",Newsmax N2
