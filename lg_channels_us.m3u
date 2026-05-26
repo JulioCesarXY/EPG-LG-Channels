@@ -179,7 +179,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznringside-lgus/playli
 https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="formula1tv_frla1_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/F1_Channel_800x200_white.png" group-title="Sports",F1 Channel
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="mavtvselectdomestic_mavtv_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/mavtv/MAVTV_Channel_Logo.png" group-title="Sports",MavTV Select
+#EXTINF:-1 tvg-id="mavtvselectdomestic_mavtv_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Racerselecttv_US/RACER_Select_logo_400x200.png" group-title="Sports",RACER Select Domestic
 https://amg00378-mavtv-amg00378c4-lg-us-1984.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-answermedia_monsterjam_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1693-LG-Logo-PNG-100x100_v1.png" group-title="Sports",Monster Jam
 https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8
