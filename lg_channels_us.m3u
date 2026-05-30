@@ -15,7 +15,7 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/am
 https://wurlnews12ny.global.transmit.live/hls/68c48577268ca4398b084116/v1/alticeusanewsinc_news12newyork_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="foxweather_foxwt_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/fox-weather/FoxWeather_White_Logo_400x200.png" group-title="News",Fox Weather
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="us-ion_ion_plus_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/378-LG-Logo-PNG-100x100_v3.png" group-title="TV & Movies",ION Plus
+#EXTINF:-1 tvg-id="us-ion_ion_plus_1" tvg-logo="http://img.platform.wurl.dev/channel/378/lg/165a68/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",ION Plus
 https://wurlewscripps.global.transmit.live/hls/6994c4740198ca4590f9e0c0/v1/ion_ion_plus_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere LG US_MOVSPLGUS_US" tvg-logo="https://db6iftd8li11q.cloudfront.net/Moviesphere/MovieSphere_LG_White_800x200.png" group-title="TV & Movies",MovieSphere
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8
