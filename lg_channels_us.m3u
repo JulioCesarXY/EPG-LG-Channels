@@ -343,6 +343,8 @@ https://wurllangley.global.transmit.live/hls/68dc5ced67531dbca67149df/playlist.m
 https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandcrime_samsung/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-scripps_courttv_4" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png" group-title="Crime",Court TV
 https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="buzzr_buzzr_US" tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" group-title="Game Shows",Buzzr
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="thepriceisright_tpirt_US" tvg-logo="https://d176ihgbrcz7jq.cloudfront.net/TPIR_Barker_Logo_WHT_800x200.png" group-title="Game Shows",The Price Is Right
 https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_gameshowchannnel_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/416-LG-Logo-PNG-100x100_v3.png" group-title="Game Shows",Game Show Central
