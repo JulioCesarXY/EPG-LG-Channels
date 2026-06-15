@@ -32,8 +32,8 @@ jobs:
 
     - name: Commitar e Enviar os ficheiros atualizados
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+        git config --local user.name "JulioCesarXY"
         git add lg_channels_us.m3u lg_epg_us.xml
         # Só faz o commit se houver alterações para evitar erros
         git diff-index --quiet HEAD || git commit -m "Auto: Canais e EPG atualizados às $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
