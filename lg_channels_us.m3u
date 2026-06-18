@@ -161,7 +161,7 @@ https://amg27125-amg27125c1-amgplt0023.playout.now3.amagi.tv/playlist/amg27125-a
 https://wurl120sports.global.transmit.live/hls/6863f426233e6604b8b45832/v1/stadium_gracenote/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-amc_overtime_1" tvg-logo="http://img.platform.wurl.dev/channel/1192/lg/73477a/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Overtime
 https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/amc_overtime_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-world_rugby_rugbypasstv_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1872-LG-Logo-PNG-100x100_v2.png" group-title="Sports",RugbyPass TV
+#EXTINF:-1 tvg-id="us-world_rugby_rugbypasstv_1" tvg-logo="http://img.platform.wurl.dev/channel/1872/lg/c984c0/LG-Logo-PNG-100x100_v1.png" group-title="Sports",RugbyPass TV
 https://wurlworldrugby.global.transmit.live/hls/688cf16a14352f4b8d1bd9ab/v1/world_rugby_rugbypasstv_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-fubotv_fubo_sports_network_1" tvg-logo="http://img.platform.wurl.dev/channel/1358/lg/2b0c5b/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Fubo Sports
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
@@ -169,7 +169,7 @@ https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fub
 https://wurltripleb.global.transmit.live/hls/695eb4986d2aa32b698bbf81/v1/eleven_bowlingtv_1/lg_us/latest/main/hls/bowl.m3u8
 #EXTINF:-1 tvg-id="espn8ocho_amg00497c24_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ABC_LG/ESPN/Espn_400X200.png" group-title="Sports",ESPN 8: The Ocho
 https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c24-amgplt0023/playlist.m3u8
-#EXTINF:-1 tvg-id="us-amc_msgsportszone_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1386-LG-Logo-PNG-100x100_v1.png" group-title="Sports",MSG SportsZone
+#EXTINF:-1 tvg-id="us-amc_msgsportszone_1" tvg-logo="http://img.platform.wurl.dev/channel/1386/lg/dad2b4/LG-Logo-PNG-100x100_v1.png" group-title="Sports",MSG SportsZone
 https://wurlrainbowmedia.global.transmit.live/hls/68c4987e18e2a74e37774fb6/v1/amc_msgsportszone_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-amc_networks_nesnnation_1" tvg-logo="http://img.platform.wurl.dev/channel/1952/lg/d4cda0/LG-Logo-PNG-100x100_v1.png" group-title="Sports",NESN Nation
 https://wurlrainbowmedia.global.transmit.live/hls/68c49b2318e2a74e37774fbc/v1/amc_networks_nesnnation_1/lg_us/latest/main/hls/playlist.m3u8
