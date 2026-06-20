@@ -113,7 +113,7 @@ https://linear-190.frequency.stream/dist/lg-us/190/hls/master/playlist.m3u8
 https://wurlbbcstudiosamericas.global.transmit.live/hls/694045c2879067a71cc92e65/playlist.m3u8
 #EXTINF:-1 tvg-id="haunttvus_hntus_US" tvg-logo="https://d2y2gft5545ze9.cloudfront.net/HauntTV_200pxHigh_LG_ChannelAssets_White.png" group-title="Entertainment",Haunt TV US
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="us-gsn_crunchyroll_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1467-LG-Logo-PNG-100x100_v2.png" group-title="Entertainment",Crunchyroll
+#EXTINF:-1 tvg-id="us-gsn_crunchyroll_1" tvg-logo="http://img.platform.wurl.dev/channel/1467/lg/c26078/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",Crunchyroll
 https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-amc_anime_x_hidive_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1398-LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",ANIME x HIDIVE
 https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8
