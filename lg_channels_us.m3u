@@ -141,7 +141,7 @@ https://linear-11.frequency.stream/dist/lg-us/11/hls/master/playlist.m3u8
 https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="us-world_poker_tour_wpt_1" tvg-logo="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png" group-title="Sports",World Poker Tour
 https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
-#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Billiard TV
+#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Billiard TV
 https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
 #EXTINF:-1 tvg-id="FREQ1006-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/pgatour/channels/pgatour400x200.png" group-title="Sports",PGA TOUR
 https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
@@ -317,7 +317,7 @@ https://amg00658-amg00658c105-lg-us-7334.playouts.now.amagi.tv/playlist/amg00658
 https://amg00658-amg00658c9-lg-us-7505.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ940-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/shoutstudios/channels/LG_CBTV_Logo_400x200.png" group-title="Crime",Crime Beat TV
 https://linear-940.frequency.stream/dist/lg-us/940/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_thrillher_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1056-LG-Logo-PNG-100x100_v2.png" group-title="Crime",Crime ThrillHer
+#EXTINF:-1 tvg-id="us-aenetworks_thrillher_1" tvg-logo="http://img.platform.wurl.dev/channel/1056/lg/28d4f8/LG-Logo-PNG-100x100_v2.png" group-title="Crime",Crime ThrillHer
 https://aenetworks.global.transmit.live/hls/68b77f472119c010f116648d/v1/aenetworks_thrillher_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="99992255" tvg-logo="https://image.xumo.com/v1/channels/channel/99992255/600x200.png?type=white_cropped" group-title="Crime",Forensic Files
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
