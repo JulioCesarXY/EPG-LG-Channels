@@ -141,7 +141,7 @@ https://linear-11.frequency.stream/dist/lg-us/11/hls/master/playlist.m3u8
 https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="us-world_poker_tour_wpt_1" tvg-logo="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png" group-title="Sports",World Poker Tour
 https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
-#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Billiard TV
+#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Billiard TV
 https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
 #EXTINF:-1 tvg-id="FREQ1006-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/pgatour/channels/pgatour400x200.png" group-title="Sports",PGA TOUR
 https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
