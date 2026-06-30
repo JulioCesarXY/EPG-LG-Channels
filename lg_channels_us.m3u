@@ -35,7 +35,7 @@ https://amg00353-amg00353c49-lg-us-7640.playouts.now.amagi.tv/playlist/amg00353-
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="99992284" tvg-logo="https://image.xumo.com/v1/channels/channel/99992284/600x200.png?type=white_cropped" group-title="TV & Movies",Hi-Yah!
 https://d6b383jzkrtyn.cloudfront.net/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_holidaymoviefavorites_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/999-LG-Logo-PNG-100x100_v11.png" group-title="TV & Movies",Lifetime Movie Favorites
+#EXTINF:-1 tvg-id="us-aenetworks_holidaymoviefavorites_1" tvg-logo="http://img.platform.wurl.dev/channel/999/lg/2c7884/LG-Logo-PNG-100x100_v2.png" group-title="TV & Movies",Lifetime Movie Favorites
 https://aenetworks.global.transmit.live/hls/68b7788c2bcf083f5d656232/v1/aenetworks_holidaymoviefavorites_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="mytimemovienetworkus_mytimea_US" tvg-logo="https://d23edfjfpc1xrv.cloudfront.net/MyTime_Logo_300x200.png" group-title="TV & Movies",MyTime Movie Network
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
@@ -61,7 +61,7 @@ https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cined
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="us-dhx_degrassi_1" tvg-logo="http://img.platform.wurl.dev/channel/715/lg/50c09d/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",Degrassi
 https://wurldhxmedia.global.transmit.live/hls/68cdaf0debffa02805c6b132/playlist.m3u8
-#EXTINF:-1 tvg-id="us-amc_allblk_gems_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1180-LG-Logo-PNG-100x100_v3.png" group-title="TV & Movies",AllBlk Gems
+#EXTINF:-1 tvg-id="us-amc_allblk_gems_1" tvg-logo="http://img.platform.wurl.dev/channel/1180/lg/f13d7e/LG-Logo-PNG-100x100_v2.png" group-title="TV & Movies",AllBlk Gems
 https://wurlrainbowmedia.global.transmit.live/hls/68c49711192b2a4e99da1da0/v1/amc_allblk_gems_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ888" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png" group-title="TV & Movies",Alien Nation by DUST
 https://linear-888.frequency.stream/dist/lg-us/888/hls/master/playlist.m3u8
@@ -115,7 +115,7 @@ https://wurlbbcstudiosamericas.global.transmit.live/hls/694045c2879067a71cc92e65
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-haunttv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_crunchyroll_1" tvg-logo="http://img.platform.wurl.dev/channel/1467/lg/c26078/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",Crunchyroll
 https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1/gsn_crunchyroll_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-amc_anime_x_hidive_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1398-LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",ANIME x HIDIVE
+#EXTINF:-1 tvg-id="us-amc_anime_x_hidive_1" tvg-logo="http://img.platform.wurl.dev/channel/1398/lg/ab8828/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",ANIME x HIDIVE
 https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ901" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/yu-gi-oh-400x200.png" group-title="Entertainment",Yu-Gi-Oh!
 https://linear-901.frequency.stream/dist/lg-us/901/hls/master/playlist_lg.m3u8
@@ -241,7 +241,7 @@ https://bam-homeful-usa-lg-us.amagi.tv/hls/amagi_hls_data_bamcanada-bamca-homefu
 https://tmbijukin.global.transmit.live/hls/68d5b949f1814c6c39825027/v1/jukin_homefamilyhandyman_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_tinyhousenation_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/675-LG-Logo-PNG-100x100_v4.png" group-title="Lifestyle",Tiny House Nation
 https://aenetworks.global.transmit.live/hls/68b780622bcf083f5d65623d/v1/aenetworks_tinyhousenation_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_ae_1" tvg-logo="http://img.platform.wurl.dev/channel/285/lg/ae0d5e/LG-Logo-PNG-100x100_v3.png" group-title="Lifestyle",Home.Made.Nation
+#EXTINF:-1 tvg-id="us-aenetworks_ae_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/285-LG-Logo-PNG-100x100_v1.png" group-title="Lifestyle",Home.Made.Nation
 https://aenetworks.global.transmit.live/hls/68b729088da3641997c664b0/v1/aenetworks_ae_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-janson_todayshomeowner_1" tvg-logo="http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-Logo-PNG-100x100_v4.png" group-title="Lifestyle",Today's Home
 https://wurljansonmedia.global.transmit.live/hls/67910ced0b2848c81efe74d1/playlist.m3u8
@@ -327,7 +327,7 @@ https://aenetworks.global.transmit.live/hls/69f513e9b1fc478d8423d39a/v1/ae_netwo
 https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-trublufactual_trublu_1" tvg-logo="http://img.platform.wurl.dev/channel/1565/lg/142485/LG-Logo-PNG-100x100_v1.png" group-title="Crime",TruBlu
 https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_crime360_1" tvg-logo="http://img.platform.wurl.dev/channel/393/lg/9045f5/LG-Logo-PNG-100x100_v4.png" group-title="Crime",A&E Crime 360
+#EXTINF:-1 tvg-id="us-aenetworks_crime360_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-Logo-PNG-100x100_v6.png" group-title="Crime",A&E Crime 360
 https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_kriminal_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png" group-title="Crime",Crimes Cults Killers  by A&E
 https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8
@@ -341,8 +341,6 @@ https://wurllangley.global.transmit.live/hls/68dc5ced67531dbca67149df/playlist.m
 https://wurllawnewz.global.transmit.live/hls/68dc523c2aa9a163d81820fa/v1/lawandcrime_samsung/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-scripps_courttv_4" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1516-LG-Logo-PNG-100x100_v2.png" group-title="Crime",Court TV
 https://wurlewscripps.global.transmit.live/hls/68dd8c9a9af97b14350c66f6/v1/scripps_courttv_4/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="buzzr_buzzr_US" tvg-logo="https://d3p7no563qx06c.cloudfront.net/EPG/S3/images/buzzr_logo.png" group-title="Game Shows",Buzzr
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="thepriceisright_tpirt_US" tvg-logo="https://d176ihgbrcz7jq.cloudfront.net/TPIR_Barker_Logo_WHT_800x200.png" group-title="Game Shows",The Price Is Right
 https://amg00145-amg00145c16-lg-us-5075.playouts.now.amagi.tv/playlist/amg00145-fremantlemediafast-thepriceisright-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_gameshowchannnel_1" tvg-logo="http://img.platform.wurl.dev/channel/416/lg/b2b042/LG-Logo-PNG-100x100_v1.png" group-title="Game Shows",Game Show Central
