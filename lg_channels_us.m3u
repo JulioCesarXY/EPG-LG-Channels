@@ -25,7 +25,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 https://amg02042-ottstudio-amg02042c1-lg-us-833.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-gsn_cinevault_80s_1" tvg-logo="http://img.platform.wurl.dev/channel/691/lg/e11147/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",CINEVAULT
 https://wurlgameshownetwork.global.transmit.live/hls/68d16f229e868efab9c34b16/v1/gsn_cinevault_80s_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-gsn_cinevault_classics_2" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1043-LG-Logo-PNG-100x100_v3.png" group-title="TV & Movies",CINEVAULT: Classics
+#EXTINF:-1 tvg-id="us-gsn_cinevault_classics_2" tvg-logo="http://img.platform.wurl.dev/channel/1043/lg/374298/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",CINEVAULT: Classics
 https://wurlgameshownetwork.global.transmit.live/hls/68d16fc891b992ec0d46bfe0/v1/gsn_cinevault_classics_2/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="shoutmovies_stmvs_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Shout_Movies/LG_SM_Logo_400x200.png" group-title="TV & Movies",Shout! Movies
 https://amg00163-amg00163c15-lg-us-7501.playouts.now.amagi.tv/playlist/amg00163-shoutfactory1-shoutmovies-lgus/playlist.m3u8
@@ -47,7 +47,7 @@ https://wurlmaverickentertainment.global.transmit.live/hls/68df03f4399ba7e27674f
 https://amg00207-theasylum-amg00207c1-lg-us-9186.playouts.now.amagi.tv/playlist/amg00207-theglobalasyluminc-theasylummoviechannel-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-cinedigm_entertainment_corp_screamboxtv_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1845-LG-Logo-PNG-100x100_v2.png" group-title="TV & Movies",Screambox TV
 https://wurlcineverse.global.transmit.live/hls/6788648b58870f59fceabf97/v1/cinedigm_entertainment_corp_screamboxtv_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-amc_scaresbyshudder_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1566-LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",Scares by Shudder
+#EXTINF:-1 tvg-id="us-amc_scaresbyshudder_1" tvg-logo="http://img.platform.wurl.dev/channel/1566/lg/835604/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",Scares by Shudder
 https://wurlrainbowmedia.global.transmit.live/hls/68c49e4709574e8405506cb3/v1/amc_scaresbyshudder_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-lg_thebeverlyhillbillies_1" tvg-logo="http://img.platform.wurl.dev/channel/1342/lg/06eaa3/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",The Beverly Hillbillies
 https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
@@ -203,7 +203,7 @@ https://wurlewscripps.global.transmit.live/hls/68faa8c23714adc3f0f25388/v1/scrip
 https://wurlgameshownetwork.global.transmit.live/hls/68d16b590531b397b61a778d/v1/gsn_cinevault_70s_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ918-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/streamingink/channels/918-400x200.png" group-title="Comedy",Animation+
 https://linear-918.frequency.stream/dist/lg-us/918/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="us-amc_slightly_off_by_amc_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/564-LG-Logo-PNG-100x100_v1.png" group-title="Comedy",Slightly Off IFC
+#EXTINF:-1 tvg-id="us-amc_slightly_off_by_amc_1" tvg-logo="http://img.platform.wurl.dev/channel/564/lg/dc4310/LG-Logo-PNG-100x100_v2.png" group-title="Comedy",Slightly Off IFC
 https://wurlrainbowmedia.global.transmit.live/hls/68c49ef04301491a9f4cfbcb/v1/amc_slightly_off_by_amc_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="theconners_thcons_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/TheConners/LG_The_Conners_800X200.png" group-title="Comedy",The Conners
 https://amg00353-amg00353c36-lg-us-6064.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-theconners-lgus/playlist.m3u8
@@ -325,7 +325,7 @@ https://aenetworks.global.transmit.live/hls/69f513e9b1fc478d8423d39a/v1/ae_netwo
 https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-trublufactual_trublu_1" tvg-logo="http://img.platform.wurl.dev/channel/1565/lg/142485/LG-Logo-PNG-100x100_v1.png" group-title="Crime",TruBlu
 https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_crime360_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-Logo-PNG-100x100_v6.png" group-title="Crime",A&E Crime 360
+#EXTINF:-1 tvg-id="us-aenetworks_crime360_1" tvg-logo="http://img.platform.wurl.dev/channel/393/lg/9045f5/LG-Logo-PNG-100x100_v4.png" group-title="Crime",A&E Crime 360
 https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_kriminal_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png" group-title="Crime",Crimes Cults Killers  by A&E
 https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8
