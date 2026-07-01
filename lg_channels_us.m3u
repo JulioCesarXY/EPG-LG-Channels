@@ -65,14 +65,14 @@ https://wurldhxmedia.global.transmit.live/hls/68cdaf0debffa02805c6b132/playlist.
 https://wurlrainbowmedia.global.transmit.live/hls/68c49711192b2a4e99da1da0/v1/amc_allblk_gems_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ888" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/gunpowderandsky/channels/Alien-Nation_white_logo_800x200.png" group-title="TV & Movies",Alien Nation by DUST
 https://linear-888.frequency.stream/dist/lg-us/888/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="FREQ796" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/bbcbritboxmysteries400x200.png" group-title="Drama",BritBox Mysteries
-https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="us-scripps_ion_1" tvg-logo="http://img.platform.wurl.dev/channel/1116/lg/c1228b/LG-Logo-PNG-100x100_v1.png" group-title="Drama",ION
 https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="heartlandclassic_hrtcl_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/heartlandclassic_lgus/heartland_logo_400x200.png" group-title="Drama",Heartland
 https://amg00353-amg00353c68-lg-us-9888.playouts.now.amagi.tv/ts-us-e2-n1/playlist/amg00353-lionsgatetvfast-heartlandclassic-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ938" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/bbcdrama400x200.png" group-title="Drama",BBC Drama
 https://linear-938.frequency.stream/dist/lg-us/938/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FREQ796" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/bbc/channels/bbcbritboxmysteries400x200.png" group-title="Drama",BritBox Mysteries
+https://linear-796.frequency.stream/dist/lg-us/796/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="us-scripps_ionmystery_1" tvg-logo="http://img.platform.wurl.dev/channel/1206/lg/4adf47/LG-Logo-PNG-100x100_v2.png" group-title="Drama",ION Mystery
 https://wurlewscripps.global.transmit.live/hls/68f94986a2037bf6aaa6d716/v1/scripps_ionmystery_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="otspr_otspr_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Outersphere/Outersphere_log.png" group-title="Drama",Outersphere
@@ -129,14 +129,16 @@ https://tmbijukin.global.transmit.live/hls/68d5c33d17029cfa928e9462/v1/jukin_peo
 https://amg00793-amg00793c35-lg-us-6412.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-dinospluto-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="estrellagames_estgm_US" tvg-logo="https://d3st1dzbcmlcd.cloudfront.net/EstrellaGames/Images/estrellagames_logo.png" group-title="Entertainment",Estrella Games
 https://amg00567-estrellamedia-amg00567c1-lg-us-809.playouts.now.amagi.tv/playlist/amg00567-estrellamediafast-estrellagames-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="us-answermedia_monsterjam_1" tvg-logo="http://img.platform.wurl.dev/channel/1693/lg/b8ed98/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Monster Jam
+https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="Waypoint TVUS_WAYPNTLGUS_US" tvg-logo="https://d97g6zbo9kng8.cloudfront.net/logo_waypoint.png" group-title="Sports",Waypoint TV
 https://waypointtv-lg-us.amagi.tv/hls/amagi_hls_data_waypointt-waypointtv-lg-us/CDN/master.m3u8
-#EXTINF:-1 tvg-id="nationalhockeyleague_nhlpcr_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NHL/NHL_Logo_400x200.png" group-title="Sports",NHL
-https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ11-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/oneworld/channels/boot400x200.png" group-title="Sports",BOOT
 https://linear-11.frequency.stream/dist/lg-us/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ847-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/mlb/channels/847-400x200.png" group-title="Sports",MLB
 https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="nationalhockeyleague_nhlpcr_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/NHL/NHL_Logo_400x200.png" group-title="Sports",NHL
+https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-world_poker_tour_wpt_1" tvg-logo="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png" group-title="Sports",World Poker Tour
 https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
 #EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Billiard TV
@@ -181,8 +183,6 @@ https://linear-253.frequency.stream/dist/lg-us/253/hls/master/playlist.m3u8
 https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="mavtvselectdomestic_mavtv_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Racerselecttv_US/RACER_Select_logo_400x200.png" group-title="Sports",RACER Select
 https://amg00378-mavtv-amg00378c4-lg-us-1984.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-mavtvselectdomestic-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="us-answermedia_monsterjam_1" tvg-logo="http://img.platform.wurl.dev/channel/1693/lg/b8ed98/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Monster Jam
-https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="womenssportsnetwork_womch_US" tvg-logo="https://d2gqmql520my5n.cloudfront.net/WOMCH/LG/WSNLogoWhite_800x200.png" group-title="Sports",Women's Sports Network
 https://womensnetwork-lg.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-womensnetwork/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="dpworldtourgolf_dpwtg_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/C15studio/Logo_DPWorldTour.png" group-title="Sports",DP World Tour
@@ -217,8 +217,6 @@ https://wurlbesteverchannels.global.transmit.live/hls/695ff77d70783bed1981352c/p
 https://linear-903.frequency.stream/dist/lg-us/903/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="comedyplus_amg02042c5eng_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/ottstudios/comedy-plus/Comedy%20Plus%20White%20transparent%20logo.png" group-title="Comedy",Comedy Plus
 https://amg02042-ottstudio-amg02042c5-lg-us-1052.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-comedyplus-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="us-answermedia_theredgreenshow_2" tvg-logo="http://img.platform.wurl.dev/channel/949/lg/88661a/LG-Logo-PNG-100x100_v2.png" group-title="Comedy",The Red Green Channel
-https://wurlspacemob.global.transmit.live/hls/67cf33d86ef201b4705ce2a0/v1/answermedia_theredgreenshow_2/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="allchewedup_amg00497c33_us" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Allchewedup/AllChewedUpLogo_V2.png" group-title="Lifestyle",All Chewed Up
 https://amg00497-amg00497c33-amgplt0023.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00497-amg00497c33-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-id="us-lg_majordomo_media_channel_dc" tvg-logo="http://img.platform.wurl.dev/channel/1369/lg/82e65a/LG-Logo-PNG-100x100_v1.png" group-title="Lifestyle",Majordomo TV with David Chang
