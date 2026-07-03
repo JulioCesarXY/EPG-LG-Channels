@@ -55,7 +55,7 @@ https://wurllg.global.transmit.live/hls/68dd675dbef7caea09cec819/playlist.m3u8
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="us-gsn_cinevault_westerns_1" tvg-logo="http://img.platform.wurl.dev/channel/690/lg/3da06a/LG-Logo-PNG-100x100_v1.png" group-title="TV & Movies",CINEVAULT: Westerns
 https://wurlgameshownetwork.global.transmit.live/hls/68d173430531b397b61a7794/v1/gsn_cinevault_westerns_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-cinedigm_entertainment_corp_lonestar_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1846-LG-Logo-PNG-100x100_v2.png" group-title="TV & Movies",Lone Star
+#EXTINF:-1 tvg-id="us-cinedigm_entertainment_corp_lonestar_1" tvg-logo="http://img.platform.wurl.dev/channel/1846/lg/f3a4fb/LG-Logo-PNG-100x100_v2.png" group-title="TV & Movies",Lone Star
 https://wurlcineverse.global.transmit.live/hls/68cc54bdb014467887e8f3f8/v1/cinedigm_entertainment_corp_lonestar_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="99992285" tvg-logo="https://image.xumo.com/v1/channels/channel/99992285/600x200.png?type=white_cropped" group-title="TV & Movies",Xumo Free Westerns
 https://d6b383jzkrtyn.cloudfront.net/hls/master.m3u8
@@ -261,7 +261,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_unxplainedzone_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1018-LG-Logo-PNG-100x100_v3.png" group-title="Reality",UnXplained Zone
 https://aenetworks.global.transmit.live/hls/68b782252bcf083f5d656241/v1/aenetworks_unxplainedzone_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_skills_thrills_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/590-LG-Logo-PNG-100x100_v2.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
+#EXTINF:-1 tvg-id="us-aenetworks_skills_thrills_1" tvg-logo="http://img.platform.wurl.dev/channel/590/lg/643d04/LG-Logo-PNG-100x100_v2.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
 https://aenetworks.global.transmit.live/hls/68b77e2b2119c010f1166488/v1/aenetworks_skills_thrills_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_axmen_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/998-LG-Logo-PNG-100x100_v2.png" group-title="Reality",Ax Men
 https://aenetworks.global.transmit.live/hls/68b761618762b0c1ea8af17e/v1/aenetworks_axmen_1/lg_us/latest/main/hls/playlist.m3u8
@@ -325,7 +325,7 @@ https://aenetworks.global.transmit.live/hls/69f513e9b1fc478d8423d39a/v1/ae_netwo
 https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-trublufactual_trublu_1" tvg-logo="http://img.platform.wurl.dev/channel/1565/lg/142485/LG-Logo-PNG-100x100_v1.png" group-title="Crime",TruBlu
 https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_crime360_1" tvg-logo="http://img.platform.wurl.dev/channel/393/lg/9045f5/LG-Logo-PNG-100x100_v4.png" group-title="Crime",A&E Crime 360
+#EXTINF:-1 tvg-id="us-aenetworks_crime360_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/393-LG-Logo-PNG-100x100_v6.png" group-title="Crime",A&E Crime 360
 https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_kriminal_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png" group-title="Crime",Crimes Cults Killers  by A&E
 https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8
