@@ -7,7 +7,7 @@ https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/am
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ1178-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/nexstar/channels/1178-400x200.png" group-title="News",The Hill
 https://linear-1178.frequency.stream/dist/lg-us/1178/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="us-scripps_newsy_3" tvg-logo="http://img.platform.wurl.dev/channel/1149/lg/d696f2/LG-Logo-PNG-100x100_v1.png" group-title="News",Scripps News
+#EXTINF:-1 tvg-id="us-scripps_newsy_3" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1149-LG-Logo-PNG-100x100_v1.png" group-title="News",Scripps News
 https://wurlewscripps.global.transmit.live/hls/68faa73efbc5325e16c2ba0a/v1/scripps_newsy_3/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-amcnetworks_bbcnews_1" tvg-logo="http://img.platform.wurl.dev/channel/1655/lg/9ba693/LG-Logo-PNG-100x100_v1.png" group-title="News",BBC News
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
@@ -99,8 +99,6 @@ https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scrip
 https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="curiositynow_curfast_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png" group-title="Entertainment",Curiosity Now
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="declassified_histim_US" tvg-logo="https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/Declassified_800x200_Logo.png" group-title="Entertainment",Declassified
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="bbctopgear8minother_bbctgsf_US" tvg-logo="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png" group-title="Entertainment",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="nashbridges_nbdgs_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Nash%20Bridges/NashBridges_LGLaunch_Guide_Logo_800x200.png" group-title="Entertainment",Nash Bridges
@@ -261,7 +259,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lg
 https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_unxplainedzone_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1018-LG-Logo-PNG-100x100_v3.png" group-title="Reality",UnXplained Zone
 https://aenetworks.global.transmit.live/hls/68b782252bcf083f5d656241/v1/aenetworks_unxplainedzone_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_skills_thrills_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/590-LG-Logo-PNG-100x100_v2.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
+#EXTINF:-1 tvg-id="us-aenetworks_skills_thrills_1" tvg-logo="http://img.platform.wurl.dev/channel/590/lg/643d04/LG-Logo-PNG-100x100_v2.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
 https://aenetworks.global.transmit.live/hls/68b77e2b2119c010f1166488/v1/aenetworks_skills_thrills_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_axmen_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/998-LG-Logo-PNG-100x100_v2.png" group-title="Reality",Ax Men
 https://aenetworks.global.transmit.live/hls/68b761618762b0c1ea8af17e/v1/aenetworks_axmen_1/lg_us/latest/main/hls/playlist.m3u8
@@ -271,9 +269,9 @@ https://amg00276-aenetwork-amg00276c2-lg-us-1234.playouts.now.amagi.tv/playlist/
 https://linear-1209.frequency.stream/dist/lg-us/1209/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="dogwhispererwithcesarmilan_dogwh_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Dog_whisperer/DW_logo_800X200.png" group-title="Reality",Dog Whisperer with Cesar Millan
 https://amg01201-cinedigm-amg01201c30-lg-us-5871.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_dealzone_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1099-LG-Logo-PNG-100x100_v3.png" group-title="Reality",Deal Zone
+#EXTINF:-1 tvg-id="us-aenetworks_dealzone_1" tvg-logo="http://img.platform.wurl.dev/channel/1099/lg/cf9820/LG-Logo-PNG-100x100_v3.png" group-title="Reality",Deal Zone
 https://aenetworks.global.transmit.live/hls/68b7739a2bcf083f5d65622d/v1/aenetworks_dealzone_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_torque_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1052-LG-Logo-PNG-100x100_v3.png" group-title="Reality",Torque
+#EXTINF:-1 tvg-id="us-aenetworks_torque_1" tvg-logo="http://img.platform.wurl.dev/channel/1052/lg/bfedd1/LG-Logo-PNG-100x100_v3.png" group-title="Reality",Torque
 https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetworks_torque_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_iceroadtruckers_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/968-LG-Logo-PNG-100x100_v4.png" group-title="Reality",Ice Road Truckers
 https://aenetworks.global.transmit.live/hls/67be3d9fb3714a9e22d8288b/v1/aenetworks_iceroadtruckers_1/lg_us/latest/main/hls/playlist.m3u8
@@ -319,7 +317,7 @@ https://aenetworks.global.transmit.live/hls/68b77f472119c010f116648d/v1/aenetwor
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="99992257" tvg-logo="https://image.xumo.com/v1/channels/channel/99992257/600x200.png?type=white_cropped" group-title="Crime",Unsolved Mysteries
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="us-ae_networks_alaskastatetroopers_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2181-LG-Logo-PNG-100x100_v1.png" group-title="Crime",A&E Alaska State Troopers
+#EXTINF:-1 tvg-id="us-ae_networks_alaskastatetroopers_1" tvg-logo="http://img.platform.wurl.dev/channel/2181/lg/960f41/LG-Logo-PNG-100x100_v1.png" group-title="Crime",A&E Alaska State Troopers
 https://aenetworks.global.transmit.live/hls/69f513e9b1fc478d8423d39a/v1/ae_networks_alaskastatetroopers_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="coldcasefiles_aeccf_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Cold_Case_Files_Channel_Logo_Image_200x800.png" group-title="Crime",Cold Case Files
 https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-lgus/playlist.m3u8
@@ -327,7 +325,7 @@ https://amg00276-aenetwork-amg00276c3-lg-us-1235.playouts.now.amagi.tv/playlist/
 https://wurltrublufactual.global.transmit.live/hls/6994cb0f5ee6d4ddfbe7d7e7/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_crime360_1" tvg-logo="http://img.platform.wurl.dev/channel/393/lg/9045f5/LG-Logo-PNG-100x100_v4.png" group-title="Crime",A&E Crime 360
 https://aenetworks.global.transmit.live/hls/68b76f7c793640e982cd670c/v1/aenetworks_crime360_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_kriminal_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1055-LG-Logo-PNG-100x100_v5.png" group-title="Crime",Crimes Cults Killers  by A&E
+#EXTINF:-1 tvg-id="us-aenetworks_kriminal_1" tvg-logo="http://img.platform.wurl.dev/channel/1055/lg/22f210/LG-Logo-PNG-100x100_v2.png" group-title="Crime",Crimes Cults Killers  by A&E
 https://aenetworks.global.transmit.live/hls/68b779592bcf083f5d656235/v1/aenetworks_kriminal_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="99993006" tvg-logo="https://image.xumo.com/v1/channels/channel/99993006/600x200.png?type=white_cropped" group-title="Crime",World's Most Evil Killers
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
