@@ -7,7 +7,7 @@ https://amg00217-newsmax-amg00217c3-lg-us-4270.playouts.now.amagi.tv/playlist/am
 https://amg00453-reuters-amg00453c1-lg-us-2227.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ1178-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/nexstar/channels/1178-400x200.png" group-title="News",The Hill
 https://linear-1178.frequency.stream/dist/lg-us/1178/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="us-scripps_newsy_3" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1149-LG-Logo-PNG-100x100_v1.png" group-title="News",Scripps News
+#EXTINF:-1 tvg-id="us-scripps_newsy_3" tvg-logo="http://img.platform.wurl.dev/channel/1149/lg/d696f2/LG-Logo-PNG-100x100_v1.png" group-title="News",Scripps News
 https://wurlewscripps.global.transmit.live/hls/68faa73efbc5325e16c2ba0a/v1/scripps_newsy_3/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-amcnetworks_bbcnews_1" tvg-logo="http://img.platform.wurl.dev/channel/1655/lg/9ba693/LG-Logo-PNG-100x100_v1.png" group-title="News",BBC News
 https://wurlrainbowmedia.global.transmit.live/hls/68c49fa109574e8405506cb6/v1/amcnetworks_bbcnews_1/lg_us/latest/main/hls/playlist.m3u8
