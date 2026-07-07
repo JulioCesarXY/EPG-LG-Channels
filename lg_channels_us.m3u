@@ -99,6 +99,8 @@ https://wurlewscripps.global.transmit.live/hls/68dab6f2432018160a46f75e/v1/scrip
 https://amg00353-amg00353c34-lg-us-3767.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytv-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="curiositynow_curfast_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Curiosity%20Now/LG_800X200.png" group-title="Entertainment",Curiosity Now
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="declassified_histim_US" tvg-logo="https://d190bhqtoid3b.cloudfront.net/Images/S3/LG_Artwork/Declassified_800x200_Logo.png" group-title="Entertainment",Declassified
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="bbctopgear8minother_bbctgsf_US" tvg-logo="https://d2i0hcnfudruct.cloudfront.net/BBCTopGear/LG_TopGear_New_800x200.png" group-title="Entertainment",BBC Top Gear
 https://amg00793-bbcstudios-amg00793c4-lg-us-2527.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8min-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="nashbridges_nbdgs_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/Nash%20Bridges/NashBridges_LGLaunch_Guide_Logo_800x200.png" group-title="Entertainment",Nash Bridges
