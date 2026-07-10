@@ -139,7 +139,7 @@ https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8
 https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-world_poker_tour_wpt_1" tvg-logo="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png" group-title="Sports",World Poker Tour
 https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
-#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Billiard TV
+#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Billiard TV
 https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
 #EXTINF:-1 tvg-id="FREQ1006-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/pgatour/channels/pgatour400x200.png" group-title="Sports",PGA TOUR
 https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
@@ -261,7 +261,7 @@ https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlis
 https://aenetworks.global.transmit.live/hls/68b782252bcf083f5d656241/v1/aenetworks_unxplainedzone_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_skills_thrills_1" tvg-logo="http://img.platform.wurl.dev/channel/590/lg/643d04/LG-Logo-PNG-100x100_v2.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
 https://aenetworks.global.transmit.live/hls/68b77e2b2119c010f1166488/v1/aenetworks_skills_thrills_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_axmen_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/998-LG-Logo-PNG-100x100_v2.png" group-title="Reality",Ax Men
+#EXTINF:-1 tvg-id="us-aenetworks_axmen_1" tvg-logo="http://img.platform.wurl.dev/channel/998/lg/a32532/LG-Logo-PNG-100x100_v2.png" group-title="Reality",Ax Men
 https://aenetworks.global.transmit.live/hls/68b761618762b0c1ea8af17e/v1/aenetworks_axmen_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="duckdynasty_aeddy_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Duck_Dynasty_LG_Logo_white_400x200.png" group-title="Reality",Duck Dynasty
 https://amg00276-aenetwork-amg00276c2-lg-us-1234.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-duckdynasty-lgus/playlist.m3u8
@@ -273,7 +273,7 @@ https://amg01201-cinedigm-amg01201c30-lg-us-5871.playouts.now.amagi.tv/playlist/
 https://aenetworks.global.transmit.live/hls/68b7739a2bcf083f5d65622d/v1/aenetworks_dealzone_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_torque_1" tvg-logo="http://img.platform.wurl.dev/channel/1052/lg/bfedd1/LG-Logo-PNG-100x100_v3.png" group-title="Reality",Torque
 https://aenetworks.global.transmit.live/hls/68b7814f793640e982cd6718/v1/aenetworks_torque_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_iceroadtruckers_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/968-LG-Logo-PNG-100x100_v4.png" group-title="Reality",Ice Road Truckers
+#EXTINF:-1 tvg-id="us-aenetworks_iceroadtruckers_1" tvg-logo="http://img.platform.wurl.dev/channel/968/lg/23c2a3/LG-Logo-PNG-100x100_v3.png" group-title="Reality",Ice Road Truckers
 https://aenetworks.global.transmit.live/hls/67be3d9fb3714a9e22d8288b/v1/aenetworks_iceroadtruckers_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="dancemoms_aedms_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/aenetworks/Dance_Moms_Channel_Logo_Image_200x800.png" group-title="Reality",Dance Moms
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00276-aetelevisionnet-dancemoms-lgus/playlist.m3u8
@@ -285,8 +285,6 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 https://banijay-allreal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-allreal-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="99992260" tvg-logo="https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped" group-title="Reality",Hell's Kitchen
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
-#EXTINF:-1 tvg-id="projectrunwayamg02189c1engspyglassmediagroup_amg02189c1eng_US" tvg-logo="https://d377v1g4dwmoq.cloudfront.net/Images/S3/ProjectRunway_logo_white-400.png" group-title="Reality",Project Runway
-https://amg02189-amg02189c1-lg-us-7233.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="fearfactorbanijay_frfct_US" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/FRFCT/NEW_Fear-Factor-Powered-by-Banijay.png" group-title="Reality",Fear Factor
 https://banijay-fearfactor-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-fearfactor-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="noseyintl1us_nintl1us_US" tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png" group-title="Reality",Nosey
