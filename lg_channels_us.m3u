@@ -285,6 +285,8 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 https://banijay-allreal-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-allreal-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="99992260" tvg-logo="https://image.xumo.com/v1/channels/channel/99992260/600x200.png?type=white_cropped" group-title="Reality",Hell's Kitchen
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 tvg-id="projectrunwayamg02189c1engspyglassmediagroup_amg02189c1eng_US" tvg-logo="https://d377v1g4dwmoq.cloudfront.net/Images/S3/ProjectRunway_logo_white-400.png" group-title="Reality",Project Runway
+https://amg02189-amg02189c1-lg-us-7233.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="fearfactorbanijay_frfct_US" tvg-logo="https://d2yv6y0n3qsl5c.cloudfront.net/FRFCT/NEW_Fear-Factor-Powered-by-Banijay.png" group-title="Reality",Fear Factor
 https://banijay-fearfactor-lg-us.amagi.tv/hls/amagi_hls_data_lgAAAAAAA-banijay-fearfactor-lg-us/CDN/master.m3u8
 #EXTINF:-1 tvg-id="noseyintl1us_nintl1us_US" tvg-logo="https://d3icg9l6jqq36d.cloudfront.net/NINTL1/Nosey_LG_Logo_white_800x200.png" group-title="Reality",Nosey
