@@ -139,7 +139,7 @@ https://linear-847.frequency.stream/dist/lg-us/847/hls/master/playlist.m3u8
 https://amg01874-nhl-amg01874c1-lg-us-5458.playouts.now.amagi.tv/playlist/amg01874-nhlinteractivecyberenterprisesllcfast-nhl-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-world_poker_tour_wpt_1" tvg-logo="http://img.platform.wurl.dev/channel/2131/lg/12ce40/LG-Logo-PNG-100x100_v1.png" group-title="Sports",World Poker Tour
 https://wurlwptenterprise.global.transmit.live/hls/68d306580531b397b61a7855/v1/world_poker_tour_wpt_1/lg_us/latest/main/hls/lg.m3u8
-#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v2.png" group-title="Sports",Billiard TV
+#EXTINF:-1 tvg-id="us-tripleb_billiardtv_1" tvg-logo="http://img.platform.wurl.dev/channel/1288/lg/0bc2e9/LG-Logo-PNG-100x100_v1.png" group-title="Sports",Billiard TV
 https://wurltripleb.global.transmit.live/hls/695eb1b16eecf118ae98dc9f/v1/tripleb_billiardtv_1/lg_us/latest/main/hls/billi.m3u8
 #EXTINF:-1 tvg-id="FREQ1006-US" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/pgatour/channels/pgatour400x200.png" group-title="Sports",PGA TOUR
 https://linear-1006.frequency.stream/dist/lg-us/1006/hls/master/playlist.m3u8
@@ -257,7 +257,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-lg
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-cineestrella-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="lovenaturespanish_lnrspalgus_US" tvg-logo="https://d190bhqtoid3b.cloudfront.net/Images/S3/LNRSPA/LoveNatureenEspanol_AllWhite_Logo_800x200.png" group-title="Latin",Love Nature En Espanol
 https://amg01515-blueskyeus-amg01515c17-lg-us-2347.playouts.now.amagi.tv/playlist/amg01515-blueskyeentertainment-lovenaturespanishnew2-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="us-aenetworks_unxplainedzone_1" tvg-logo="http://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1018-LG-Logo-PNG-100x100_v3.png" group-title="Reality",UnXplained Zone
+#EXTINF:-1 tvg-id="us-aenetworks_unxplainedzone_1" tvg-logo="http://img.platform.wurl.dev/channel/1018/lg/264964/LG-Logo-PNG-100x100_v2.png" group-title="Reality",UnXplained Zone
 https://aenetworks.global.transmit.live/hls/68b782252bcf083f5d656241/v1/aenetworks_unxplainedzone_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-aenetworks_skills_thrills_1" tvg-logo="http://img.platform.wurl.dev/channel/590/lg/643d04/LG-Logo-PNG-100x100_v2.png" group-title="Reality",Xtreme Outdoor Presented by HISTORY
 https://aenetworks.global.transmit.live/hls/68b77e2b2119c010f1166488/v1/aenetworks_skills_thrills_1/lg_us/latest/main/hls/playlist.m3u8
