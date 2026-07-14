@@ -241,8 +241,6 @@ https://aenetworks.global.transmit.live/hls/68b780622bcf083f5d65623d/v1/aenetwor
 https://aenetworks.global.transmit.live/hls/68b729088da3641997c664b0/v1/aenetworks_ae_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-janson_todayshomeowner_1" tvg-logo="http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-Logo-PNG-100x100_v4.png" group-title="Lifestyle",Today's Home
 https://wurljansonmedia.global.transmit.live/hls/67910ced0b2848c81efe74d1/playlist.m3u8
-#EXTINF:-1 tvg-id="gotraveler_amg09501c1eng_US" tvg-logo="https://d21daa8enjs33a.cloudfront.net/Images/S3/Gotraveler_800x200.png" group-title="Lifestyle",GoTraveler
-https://amg09501-questar-amg09501c1-lg-us-2418.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="pbsgenealogy_pbsgy_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBS_Geno_logo_400x200.png" group-title="Lifestyle",PBS Genealogy
 https://amg02333-pbs-amg02333c14-lg-us-8487.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-bbc_antiquesroadshowuk_1" tvg-logo="http://img.platform.wurl.dev/channel/905/lg/c20695/LG-Logo-PNG-100x100_v1.png" group-title="Lifestyle",Antiques Roadshow UK
@@ -361,8 +359,6 @@ https://bamus-lovenature-lg.amagi.tv/hls/amagi_hls_data_bamusaAAA-bamus-lovenatu
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="us-janson_supersimplesongs_1" tvg-logo="http://img.platform.wurl.dev/channel/559/lg/d86b91/LG-Logo-PNG-100x100_v1.png" group-title="Kids",Super Simple Songs
 https://wurljansonmedia.global.transmit.live/hls/69023f1166b49dcc2386bae5/playlist.m3u8
-#EXTINF:-1 tvg-id="us-jansonmedia_superwings_1" tvg-logo="http://img.platform.wurl.dev/channel/1694/lg/9c948f/LG-Logo-PNG-100x100_v1.png" group-title="Kids",Super Wings
-https://wurljansonmedia.global.transmit.live/hls/690514711a75ede7768457b8/playlist.m3u8
 #EXTINF:-1 tvg-id="99992126" tvg-logo="https://image.xumo.com/v1/channels/channel/99992126/600x200.png?type=white_cropped" group-title="Kids",Baby Einstein
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="us-jansonmedia_kidstv_1" tvg-logo="http://img.platform.wurl.dev/channel/1379/lg/21ab0d/LG-Logo-PNG-100x100_v2.png" group-title="Kids",Kids TV
