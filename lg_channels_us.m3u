@@ -241,6 +241,8 @@ https://aenetworks.global.transmit.live/hls/68b780622bcf083f5d65623d/v1/aenetwor
 https://aenetworks.global.transmit.live/hls/68b729088da3641997c664b0/v1/aenetworks_ae_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="us-janson_todayshomeowner_1" tvg-logo="http://img.platform.wurl.dev/channel/1162/lg/e95c0e/LG-Logo-PNG-100x100_v4.png" group-title="Lifestyle",Today's Home
 https://wurljansonmedia.global.transmit.live/hls/67910ced0b2848c81efe74d1/playlist.m3u8
+#EXTINF:-1 tvg-id="gotraveler_amg09501c1eng_US" tvg-logo="https://d21daa8enjs33a.cloudfront.net/Images/S3/Gotraveler_800x200.png" group-title="Lifestyle",GoTraveler
+https://amg09501-questar-amg09501c1-lg-us-2418.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="pbsgenealogy_pbsgy_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBS_Geno_logo_400x200.png" group-title="Lifestyle",PBS Genealogy
 https://amg02333-pbs-amg02333c14-lg-us-8487.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsgenealogy-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="us-bbc_antiquesroadshowuk_1" tvg-logo="http://img.platform.wurl.dev/channel/905/lg/c20695/LG-Logo-PNG-100x100_v1.png" group-title="Lifestyle",Antiques Roadshow UK
