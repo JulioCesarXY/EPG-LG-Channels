@@ -118,7 +118,7 @@ https://wurlgameshownetwork.global.transmit.live/hls/68d1741991b992ec0d46bfea/v1
 #EXTINF:-1 tvg-id="us-amc_anime_x_hidive_1" tvg-logo="http://img.platform.wurl.dev/channel/1398/lg/ab8828/LG-Logo-PNG-100x100_v1.png" group-title="Entertainment",ANIME x HIDIVE
 https://wurlrainbowmedia.global.transmit.live/hls/68c497de18e2a74e37774fb3/v1/amc_anime_x_hidive_1/lg_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="FREQ901" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/cineverse/channels/yu-gi-oh-400x200.png" group-title="Entertainment",Yu-Gi-Oh!
-https://linear-901.frequency.stream/dist/lg-us/901/hls/master/playlist.m3u8
+https://linear-901.frequency.stream/dist/lg-us/901/hls/master/playlist_lg.m3u8
 #EXTINF:-1 tvg-id="99992283" tvg-logo="https://image.xumo.com/v1/channels/channel/99992283/600x200.png?type=white_cropped" group-title="Entertainment",It's Showtime at the Apollo
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="antiquesroadshow_pbsdc_US" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/pbs/PBSAntiquesRoadshow_LG_Channel_Logo_800x200.png" group-title="Entertainment",Antiques Roadshow
